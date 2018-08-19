@@ -282,6 +282,12 @@ K Panasonic Relay Dual Pole
 F http://www3.panasonic.biz/ac/e_download/control/relay/power/catalog/mech_eng_jw.pdf?via=ok
 $ENDCMP
 #
+$CMP MASWSS0115
+D American Zettler, Microminiature Polarised Dual Pole Relay
+K Miniature Polarised Relay Dual Pole
+F http://www.azettler.com/pdfs/az850.pdf
+$ENDCMP
+#
 $CMP RM50-xx21
 D RELPOL, Single Pole Relay SPST-NO, 6A
 K Single Pole Relay SPST-NO

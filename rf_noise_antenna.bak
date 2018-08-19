@@ -562,8 +562,6 @@ Wire Wire Line
 	3250 1900 3250 2300
 Connection ~ 3250 2300
 Wire Wire Line
-	1900 2300 2400 2300
-Wire Wire Line
 	1900 2400 1900 2700
 Wire Wire Line
 	2200 2700 2200 2800
@@ -789,6 +787,8 @@ Connection ~ 6550 6550
 Wire Wire Line
 	6750 6550 6750 6250
 Connection ~ 6650 6550
+Wire Wire Line
+	1900 2300 2400 2300
 Wire Wire Line
 	3400 2600 3400 2700
 $EndSCHEMATC
