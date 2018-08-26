@@ -1,4 +1,4 @@
-update=Sat 25 Aug 2018 20:47:30 SAST
+update=Sun 26 Aug 2018 19:37:50 SAST
 version=1
 last_client=eeschema
 [cvpcb]
@@ -6,16 +6,6 @@ version=1
 NetIExt=net
 [general]
 version=1
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=60
 [pcbnew]
 version=1
 PageLayoutDescrFile=
@@ -73,3 +63,13 @@ LibName31=contrib
 LibName32=valves
 LibName33=Transformer
 LibName34=MABA-009180-500MHz_transformer
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=Pcbnew
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
