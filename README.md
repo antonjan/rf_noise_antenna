@@ -4,8 +4,10 @@ This project will have the Raspberry Pi HAT that will switch in the LOW and HIGH
 There is also a Isolation transformer on the board to eliminate the DC ground from the antenna and generating noise.<br>
 This antenna consists of a raspberry HAT for RF filter and power injection for the active Antenna.<br>
 Diagram of Active antenna base filter.
-![Diagram](doc/rf_noise_antenna_3.png?raw=true "Diagram")<br>
+![Diagram](doc/rf_noise_pi_hat_sch_v1.png?raw=true "Diagram")<br>
 Filter LOW PASS<br>
+PCB Layout<br>
+![Filter 1](doc/rf_noise_pi_hat_v1_pcb.png?raw=true "PCB Layout")<br>
 ![Filter 1](doc/rf_noise_antenna_filter_1.png?raw=true "Filter 1")<br>
 Filter High PASS<br>
 ![Filter 2](doc/rf_noise_antenna_filter_2.png?raw=true "Filter 2")<br>
