@@ -15,10 +15,11 @@
   (page A4)
   (title_block
     (title "RaspberryPi Hat Board")
+    (date 2018-08-26)
     (rev 1)
-    (company disk91.com)
-    (comment 1 "(c) Paul Pinault 2015")
-    (comment 2 "(c) Disk91")
+    (company "Giga Technology")
+    (comment 1 "RF Noise Pi Hat")
+    (comment 2 "Author: Anton Janovsky")
   )
 
   (layers
