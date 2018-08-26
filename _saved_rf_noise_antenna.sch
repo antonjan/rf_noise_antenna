@@ -415,12 +415,12 @@ Text Notes 6600 1500 0    60   ~ 0
 High Pass filter (14.2Mhz)
 Text Notes 6650 700  0    60   ~ 0
 Low Pass Filter (14.2Mhz)
-Text Notes 10350 1250 0    60   ~ 0
+Text Notes 10200 1250 0    60   ~ 0
 RF to SDR Dongle
 Text Notes 1250 1200 0    60   ~ 0
 RF from Sctive Antenna.\n9V Injection
-Text Notes 300  2150 0    60   ~ 0
-12V Powersupply for\n Active Antenna
+Text Notes 450  2050 0    60   ~ 0
+12V Power supply \nfor  Active Antenna
 $Comp
 L GND #PWR09
 U 1 1 5B76D0DF
@@ -858,14 +858,10 @@ Wire Wire Line
 Wire Wire Line
 	3350 1200 3450 1200
 Wire Wire Line
-	1600 1900 1850 1900
-Wire Wire Line
-	1850 1900 1850 1750
-Wire Wire Line
-	1850 1750 2950 1750
+	1750 1750 2950 1750
 Connection ~ 2950 1750
 Wire Wire Line
-	1900 2100 1900 2000
+	1900 1900 1900 2100
 Connection ~ 1900 2000
 Wire Wire Line
 	2850 2100 2850 2000
@@ -988,8 +984,6 @@ Wire Wire Line
 Wire Wire Line
 	7400 1200 7400 1250
 Wire Wire Line
-	1600 2000 2100 2000
-Wire Wire Line
 	2400 2300 2400 2400
 Wire Wire Line
 	2200 3450 1400 3450
@@ -1024,4 +1018,12 @@ Wire Wire Line
 	9450 600  5000 600 
 Wire Wire Line
 	5000 600  5000 1000
+Wire Wire Line
+	1750 1750 1750 2000
+Wire Wire Line
+	1750 2000 1600 2000
+Wire Wire Line
+	1600 1900 1900 1900
+Wire Wire Line
+	1900 2000 2100 2000
 $EndSCHEMATC
