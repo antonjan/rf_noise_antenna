@@ -7,7 +7,7 @@ What is still missing from this project is the actual active antenna.<br>
 There is also a Isolation transformer on the board to eliminate the DC ground from the antenna and generating noise.<br>
 This antenna consists of a raspberry HAT for RF filter and power injection for the active Antenna.<br>
 <br>
-# Projetc Status
+# Project Status
 This Project is Now Compleet. (The PCB Board still needs to be build and Tested)<br>
 <b>Diagram of Active antenna base filter.</b><br>
 ![Diagram](doc/rf_noise_pi_hat_sch_v1.png?raw=true "Diagram")<br><br>
