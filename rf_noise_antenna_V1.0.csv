@@ -1,0 +1,36 @@
+Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet
+1,Unpolarized capacitor,C,C1 C2 C5 C6 C7 C11 C14,100nF,C_0805_HandSoldering,7,
+2,Unpolarized capacitor,C,C9,120pF,C_0805_HandSoldering,1,
+3,Unpolarized capacitor,C,C3 C4,360pF,C_0805_HandSoldering,2,
+4,Unpolarized capacitor,C,C8 C10,390pF,C_0805_HandSoldering,2,
+5,Polarised capacitor,CP,C13 C15,4.7uF 16V,C_0805_HandSoldering,2,
+6,Polarised capacitor,CP,C12,47uF 16V,CP_Tantalum_Case-C_EIA-6032-28_Hand,1,
+7,LED generic,LED,D1 D2,LED,LED_0805_HandSoldering,2,
+8,"Generic connector, single row, 01x03",Conn_01x03,J3,Conn_01x03,TerminalBlock_Philmore_TB133_03x5mm_Straight,1,
+9,"coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, ...)",Conn_Coaxial,J1 J2,Conn_Coaxial,Molex_SMA_Jack_Edge_Mount,2,
+10,expansion header for Raspberry Pi 2 & 3,Raspberry_Pi_2_3,J4,Raspberry_Pi_2_3,Pin_Header_Straight_2x20,1,https://www.raspberrypi.org/documentation/hardware/raspberrypi/schematics/RPI-3B-V1_2-SCHEMATIC-REDUCED.pdf
+11,,MASWSS0115,K1 K2,MASWSS0115,SC-70-6,2,
+12,Inductor,L,L2,1.1uH,L_0805_HandSoldering,1,
+13,Inductor,L,L4,10uH,L_0805_HandSoldering,1,
+14,Inductor,L,L1 L3,330nH,L_0805_HandSoldering,2,
+15,Inductor,L,L5 L6,360nH,L_0805_HandSoldering,2,
+16,"45V Vce, 0.8A Ic, NPN, SOT-23",BC847,Q1 Q2,BC847,SOT-23,2,http://www.fairchildsemi.com/ds/BC/BC817.pdf
+17,Resistor,R,R3 R5,1k2,R_0805_HandSoldering,2,
+18,Resistor,R,R1 R2 R4 R6,250,R_0805_HandSoldering,4,
+19,"Transformer, single primary, single secondary",MABA-009180-500MHz_1P_1S,T1,MABA-009180-500MHz_1P_1S,SM22,1,
+20,"Positive 1.5A 35V Linear Regulator, Fixed Output 5V, TO-220/TO-263/TO-252",L7809,U1,L7809,TO-220_Horizontal,1,http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf
+
+
+
+
+
+Component Groups:,20
+Component Count:,39
+Fitted Components:,39
+Number of PCBs:,1
+Total components:,39
+Schematic Version:,V1.0
+Schematic Date:,2018-08-17
+BoM Date:,Wed 29 Aug 2018 09:54:15 SAST
+Schematic Source:,/home/anton/Documents/kicad/rf_noise_antenna/rf_noise_antenna.sch
+KiCad Version:,Eeschema 4.0.7-e2-6376~61~ubuntu18.04.1
