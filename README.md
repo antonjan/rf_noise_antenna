@@ -1,12 +1,13 @@
 # rf_noise_antenna
 This repository will have all the details for the active antenna board for Rasdpberry PI<br>
 This project will have the Raspberry Pi HAT that will switch in the LOW and HIGH pass filters depending on IO-PIN4 on raspberry Pi.<br>
+What is still missing from this project is the actual active antenna.<br>
 <b>RF Noise Block Diagram</b><br>
 ![Block Diagram ](doc/rf_noise_block_diagram_v1.png?raw=true "Block Diagram")<br>
 There is also a Isolation transformer on the board to eliminate the DC ground from the antenna and generating noise.<br>
 This antenna consists of a raspberry HAT for RF filter and power injection for the active Antenna.<br>
 <br>
-# Projetc Status
+# Project Status
 This Project is Now Compleet. (The PCB Board still needs to be build and Tested)<br>
 <b>Diagram of Active antenna base filter.</b><br>
 ![Diagram](doc/rf_noise_pi_hat_sch_v1.png?raw=true "Diagram")<br><br>
