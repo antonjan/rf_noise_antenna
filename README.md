@@ -9,6 +9,10 @@ This antenna consists of a raspberry HAT for RF filter and power injection for t
 <br>
 # Project Status
 This Project is Now Compleet. (The PCB Board still needs to be build and Tested)<br>
+# Live Monitoring system
+<a href="http://rfnoise.amsatsa.org.za/">http://rfnoise.amsatsa.org.za/</a><br>
+# More Documentation
+<a href="https://github.com/antonjan/rf_noise_antenna/tree/master/doc">More Dokuments click here</a><br>
 <b>Diagram of Active antenna base filter.</b><br>
 ![Diagram](doc/rf_noise_pi_hat_sch_v1.png?raw=true "Diagram")<br><br>
 PCB Layout<br>
