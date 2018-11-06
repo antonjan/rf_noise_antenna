@@ -1,11 +1,9 @@
-update=Sun 26 Aug 2018 19:37:50 SAST
+update=Tue 06 Nov 2018 12:01:53 SAST
 version=1
-last_client=eeschema
+last_client=kicad
 [cvpcb]
 version=1
 NetIExt=net
-[general]
-version=1
 [pcbnew]
 version=1
 PageLayoutDescrFile=
@@ -73,3 +71,5 @@ NetFmtName=Pcbnew
 SpiceForceRefPrefix=0
 SpiceUseNetNumbers=0
 LabSize=60
+[general]
+version=1

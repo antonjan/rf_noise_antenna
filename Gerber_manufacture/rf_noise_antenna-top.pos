@@ -1,0 +1,39 @@
+### Module positions - created on Mon Nov  5 10:39:17 2018 ###
+### Printed by Pcbnew version kicad 4.0.7-e2-6376~61~ubuntu18.04.1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val           Package                                   PosX       PosY       Rot  Side
+C1        100nF         C_0805_HandSoldering                   65.5320   -36.0680  180.0000  top
+C2        100nF         C_0805_HandSoldering                   66.8020   -60.7060   90.0000  top
+C3        360pF         C_0805_HandSoldering                   65.5320   -43.9420    0.0000  top
+C4        360pF         C_0805_HandSoldering                   65.5320   -51.5620    0.0000  top
+C5        100nF         C_0805_HandSoldering                   41.4020   -34.7980  180.0000  top
+C6        100nF         C_0805_HandSoldering                   51.9430   -35.9410   90.0000  top
+C7        100nF         C_0805_HandSoldering                   61.4680   -68.0720   90.0000  top
+C8        390pF         C_0805_HandSoldering                   56.6420   -45.7200   90.0000  top
+C9        120pF         C_0805_HandSoldering                   56.6420   -52.8320   90.0000  top
+C10       390pF         C_0805_HandSoldering                   56.8960   -60.7060   90.0000  top
+C11       100nF         C_0805_HandSoldering                   42.1640   -38.3540    0.0000  top
+C12       47uF 16V      CP_Tantalum_Case-C_EIA-6032-28_Hand    32.5120   -64.5160  270.0000  top
+C13       4.7uF 16V     C_0805_HandSoldering                   37.8460   -42.1640   90.0000  top
+C14       100nF         C_0805_HandSoldering                   62.4840   -30.7340   90.0000  top
+C15       4.7uF 16V     C_0805_HandSoldering                   59.6900   -30.7340   90.0000  top
+D1        LED           LED_0805_HandSoldering                 67.3735   -64.9605    0.0000  top
+J1        Conn_Coaxial  Molex_SMA_Jack_Edge_Mount              33.5280   -34.5440    0.0000  top
+J2        Conn_Coaxial  Molex_SMA_Jack_Edge_Mount              61.4680   -72.3900   90.0000  top
+K1        MASWSS0115    SC-70-6                                55.6260   -37.0840  180.0000  top
+K2        MASWSS0115    SC-70-6                                61.4680   -62.9920  270.0000  top
+L1        330nH         L_0805_HandSoldering                   66.8020   -40.1320   90.0000  top
+L2        1.1uH         L_0805_HandSoldering                   66.8020   -47.4980   90.0000  top
+L3        330nH         L_0805_HandSoldering                   66.8020   -55.3720   90.0000  top
+L4        1mH           L_0805_HandSoldering                   37.5920   -36.0680  270.0000  top
+L5        360nH         L_0805_HandSoldering                   58.1660   -49.2760  180.0000  top
+L6        360nH         L_0805_HandSoldering                   58.1660   -56.6420  180.0000  top
+Q1        BC847         SOT-23                                 43.4340   -30.4800  270.0000  top
+Q2        BC847         SOT-23                                 50.8000   -30.7340  270.0000  top
+R1        250           R_0805_HandSoldering                   55.8800   -29.4640    0.0000  top
+R2        250           R_0805_HandSoldering                   55.8800   -31.7500    0.0000  top
+R3        1k2           R_0805_HandSoldering                   39.8780   -30.4800  270.0000  top
+R4        250           R_0805_HandSoldering                   67.3100   -67.6275  180.0000  top
+R5        1k2           R_0805_HandSoldering                   46.9900   -30.2260   90.0000  top
+## End
